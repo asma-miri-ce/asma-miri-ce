@@ -23,6 +23,5 @@
 - ORCID: 0009-0005-2497-9502
 
 🤝 Connect with Me
-- ORCID: My ORCID Profile
-- GitHub: My Repositories
+- ORCID: https://orcid.org/0009-0005-2497-9502
 - Email: asmamiri.edu@gmail.com
