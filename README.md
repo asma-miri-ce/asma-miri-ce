@@ -26,5 +26,3 @@
 - ORCID: https://orcid.org/0009-0005-2497-9502
 - Email: asmamiri.edu@gmail.com
 
-  Languages and Tools
-  - python -HTML -CSS -Figma
